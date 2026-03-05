@@ -1,0 +1,21 @@
+# --- Streamlit & UI ---
+streamlit>=1.30.0
+
+# --- LangChain Core & Community ---
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-text-splitters
+langchain-core
+
+# --- Model Integrations ---
+langchain-google-genai>=0.0.5
+google-generativeai>=0.3.0
+langchain-ollama
+langchain-huggingface
+
+# --- Vector Store & Embeddings ---
+faiss-cpu
+sentence-transformers
+
+# --- PDF Processing ---
+pypdf>=3.15.1
