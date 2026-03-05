@@ -90,6 +90,3 @@ streamlit run app_final.py
 * `app_final.py`: The main integrated application supporting both Hybrid and Local modes.
 * `chat_with_pdf_gemini_with_history.py`: (Legacy) Original Gemini-only version.
 * `chat_with_pdf_ollama_with_history.py`: (Legacy) Original Ollama-only version.
-
-```
-
